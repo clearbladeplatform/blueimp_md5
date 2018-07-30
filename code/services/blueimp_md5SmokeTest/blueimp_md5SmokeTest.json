@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,blueimp_md5",
+    "logging_enabled": "false",
+    "name": "blueimp_md5SmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "blueimp_md5SmokeTest.js"
+}
